@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudando atualmente: <br>- C#<br>- .NET<br>- SQL <br>- Testes <br>- ASP.NET <br>- API Rest<br>- Azure<br><br>Contato: mauro.cbenitez@gmail.com</p>
+<p align="left">Estudando atualmente: <br>- C#<br>- .NET<br>- SQL <br>- Testes <br>- ASP.NET <br>- API Rest<br>- Azure<br><br>- AWS<br><br>Contato: mauro.cbenitez@gmail.com</p>
 
 ###
 
