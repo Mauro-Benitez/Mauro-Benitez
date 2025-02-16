@@ -34,7 +34,7 @@
 <p align="left">Desenvolvi de uma API para cadastro, consulta, atualização e exclusão de produtos, com autenticação JWT e 
 documentação Swagger.</p> 
 <p align="left">Tecnologias:</p>
-<br>- .NET 8
+- .NET 8
 <br>- Entity Framework 
 <br>- SQL Server 
 <br>- Swagger
