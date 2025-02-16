@@ -29,6 +29,18 @@
 </div>
 
 ###
+<h2 align="left">Projetos Relevantes</h2>
+<h3 align="left">API MarketPlace</h3>
+<p align="left">Desenvolvi de uma API para cadastro, consulta, atualização e exclusão de produtos, com autenticação JWT e 
+documentação Swagger</p> <br>
+<p>Tecnologias:</p><br>
+<br>- .NET 8
+<br>- Entity Framework 
+<br>- SQL Server 
+<br>- Swagger
+<br>- Autenticação JWT 
+
+###
 
 <h2 align="left">Estatísticas</h2>
 
