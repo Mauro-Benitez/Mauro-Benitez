@@ -41,6 +41,17 @@ documentação Swagger.</p>
 <br>- Autenticação JWT 
 
 ###
+<h3 align="left"><a href=https://www.linkedin.com/posts/mauro-cbenitez_apresento-uma-solu%C3%A7%C3%A3o-desenvolvida-utilizando-activity-7218071671709040641-j_IX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwZlIMBtYPgLqCx7UUQ-5VlDxaQZ8zqw8w>SisRH</a></h3>
+<p align="left">Projeto acadêmico de gestão de colaboradores e geração de holerites, desenvolvido em C# com MVC e SQL 
+Server. Interface gráfica em Windows Forms..</p> 
+<p align="left">Tecnologias:</p>
+- C#
+<br>- Windows Forms 
+<br>- SQL Server 
+<br>- Padrão MVC
+
+
+###
 
 <h2 align="left">Estatísticas</h2>
 
