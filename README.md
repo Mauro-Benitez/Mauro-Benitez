@@ -27,8 +27,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
+
 ###
 
+<h2 align="left">Projetos Relevantes</h2>
 <h3 align="left"><a href=https://github.com/ErickGoldberg/TechChallenge-FIAP>Agenda de Contatos (Em andamento)</a></h3>
 <p align="left">Estou participando de um projeto acadêmico na pós-graduação, desenvolvendo uma API de contatos. Aplicando conceitos de DDD, arquitetura limpa, testes unitários, conteinerização e monitoramento.</p> 
 <p align="left">Tecnologias e Práticas:</p>
@@ -64,7 +66,7 @@ Server. Interface gráfica em Windows Forms.</p>
 
 ###
 
-<h2 align="left">Projetos Relevantes</h2>
+
 <h3 align="left"><a href=https://github.com/Mauro-Benitez/API_Marketplace>API MarketPlace</a></h3>
 <p align="left">Desenvolvi de uma API para cadastro, consulta, atualização e exclusão de produtos, com autenticação JWT e 
 documentação Swagger.</p> 
