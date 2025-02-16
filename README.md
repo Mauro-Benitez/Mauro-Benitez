@@ -33,7 +33,7 @@
 <h3 align="left">API MarketPlace</h3>
 <p align="left">Desenvolvi de uma API para cadastro, consulta, atualização e exclusão de produtos, com autenticação JWT e 
 documentação Swagger.</p> 
-<p>Tecnologias:</p><br>
+<p>Tecnologias:</p>
 <br>- .NET 8
 <br>- Entity Framework 
 <br>- SQL Server 
