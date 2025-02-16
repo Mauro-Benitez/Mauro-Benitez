@@ -27,8 +27,43 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
+###
+
+<h3 align="left"><a href=https://github.com/ErickGoldberg/TechChallenge-FIAP>Agenda de Contatos (Em andamento)</a></h3>
+<p align="left">Estou participando de um projeto acadêmico na pós-graduação, desenvolvendo uma API de contatos. Aplicando conceitos de DDD, arquitetura limpa, testes unitários, conteinerização e monitoramento.</p> 
+<p align="left">Tecnologias e Práticas:</p>
+-.NET 8
+<br>- DDD
+<br>- Clean Architecture
+<br>- Entity Framework Core
+<br>- Fluent Validation
+<br>- Middlewares
+<br>- GitHub Actions
+<br>- Prometheus e Grafana 
 
 ###
+
+<h3 align="left"><a href=https://www.linkedin.com/posts/mauro-cbenitez_apresento-uma-solu%C3%A7%C3%A3o-desenvolvida-utilizando-activity-7218071671709040641-j_IX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwZlIMBtYPgLqCx7UUQ-5VlDxaQZ8zqw8w>SysTI</a></h3>
+<p align="left">Desenvolvi um sistema mobile para a empresa em que eu trabalhava, utilizei a plataforma PowerApps e o excel 
+como base de dados, a solução foi projetada para otimizar o gerenciamento de ativos de TI, com operações 
+CRUD e registro da ultimas moviemntações do ativo.</p> 
+<p align="left">Tecnologias:</p>
+-Power Apps
+<br>- Excel
+
+###
+
+<h3 align="left"><a href=https://www.linkedin.com/posts/mauro-cbenitez_este-%C3%A9-um-sistema-de-gerenciamento-de-recursos-activity-7205735412210765824-BNQm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwZlIMBtYPgLqCx7UUQ-5VlDxaQZ8zqw8w>SisRH</a></h3>
+<p align="left">Projeto acadêmico de gestão de colaboradores e geração de holerites, desenvolvido em C# com MVC e SQL 
+Server. Interface gráfica em Windows Forms.</p> 
+<p align="left">Tecnologias:</p>
+- C#
+<br>- Windows Forms 
+<br>- SQL Server 
+<br>- Padrão MVC
+
+###
+
 <h2 align="left">Projetos Relevantes</h2>
 <h3 align="left"><a href=https://github.com/Mauro-Benitez/API_Marketplace>API MarketPlace</a></h3>
 <p align="left">Desenvolvi de uma API para cadastro, consulta, atualização e exclusão de produtos, com autenticação JWT e 
@@ -39,17 +74,6 @@ documentação Swagger.</p>
 <br>- SQL Server 
 <br>- Swagger
 <br>- Autenticação JWT 
-
-###
-<h3 align="left"><a href=https://www.linkedin.com/posts/mauro-cbenitez_este-%C3%A9-um-sistema-de-gerenciamento-de-recursos-activity-7205735412210765824-BNQm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwZlIMBtYPgLqCx7UUQ-5VlDxaQZ8zqw8w>SisRH</a></h3>
-<p align="left">Projeto acadêmico de gestão de colaboradores e geração de holerites, desenvolvido em C# com MVC e SQL 
-Server. Interface gráfica em Windows Forms..</p> 
-<p align="left">Tecnologias:</p>
-- C#
-<br>- Windows Forms 
-<br>- SQL Server 
-<br>- Padrão MVC
-
 
 ###
 
