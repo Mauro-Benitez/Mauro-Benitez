@@ -15,6 +15,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
+  <img src="file:///C:/Users/Mauro/AppData/Local/Temp/72bfd707-bd33-4201-b4a4-e97dfebdb14a_Power_Platform_scalable.zip.14a/PowerApps_scalable.svg" height="40" alt="microsoftpowerappslogo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
