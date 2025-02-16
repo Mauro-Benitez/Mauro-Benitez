@@ -50,7 +50,7 @@
 como base de dados, a solução foi projetada para otimizar o gerenciamento de ativos de TI, com operações 
 CRUD e registro da ultimas moviemntações do ativo.</p> 
 <p align="left">Tecnologias:</p>
--Power Apps
+- Power Apps
 <br>- Excel
 
 ###
