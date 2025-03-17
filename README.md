@@ -36,6 +36,7 @@
 <p align="left">Tecnologias e Práticas:</p>
 -.NET 8
 <br>- DDD
+<br>- Microserviços
 <br>- Clean Architecture
 <br>- Entity Framework Core
 <br>- Fluent Validation
