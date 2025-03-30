@@ -42,6 +42,7 @@
 <br>- Fluent Validation
 <br>- Middlewares
 <br>- GitHub Actions
+<br>- CI/CD
 <br>- Prometheus e Grafana 
 
 ###
