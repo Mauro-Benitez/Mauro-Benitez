@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Conhecimentos em: <br>- C#<br>- .NET<br>- SQL <br>- Testes <br>- ASP.NET <br>- API Rest <br>- Microsserviços <br>- RabbitMQ  <br>- Grafana  <br>- Zabbix <br>- Azure<br>- AWS<br><br>Contato: mauro.cbenitez@gmail.com</p>
+<p align="left">Conhecimentos em: <br>- C#<br>- .NET<br>- SQL <br>- Testes <br>- ASP.NET <br>- API Rest <br>- Microsserviços <br>- RabbitMQ  <br>- Grafana  <br>- Prometheus <br>- Azure<br>- AWS<br><br>Contato: mauro.cbenitez@gmail.com</p>
 
 ###
 
